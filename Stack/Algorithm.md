@@ -1,4 +1,4 @@
-# Algorithm: Stack
+# Stack
 
 ## Implementation
 
@@ -9,3 +9,7 @@
 |C++|[file]()|
 |Python|[file]()|
 |ASM|[file]()|
+
+## Algorithm
+
+describe
