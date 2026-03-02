@@ -1,6 +1,6 @@
 # Algorithm: Stack
 
-## Languages
+## Implementation
 
 | Language | File |
 |:--------:|:----:|
